@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NeonCut</string>
+    <string name="screen_timeline">Timeline Editor</string>
+    <string name="screen_effects">Effects &amp; Filters</string>
+    <string name="screen_speed">Speed Curve Control</string>
+    <string name="screen_export">Export &amp; Render</string>
+    <string name="header_export">Export</string>
+    <string name="cd_back">Navigate back to timeline</string>
+    <string name="cd_undo">Undo last action</string>
+    <string name="cd_redo">Redo action</string>
+    <string name="cd_aspect_ratio">Switch aspect ratio</string>
+    <string name="cd_play_pause">Play or pause preview</string>
+    <string name="cd_jump_start">Jump to start</string>
+    <string name="cd_jump_end">Jump to end</string>
+    <string name="cd_step_back">Step back half second</string>
+    <string name="cd_step_forward">Step forward half second</string>
+    <string name="cd_rotate_quick">Rotate clip 90 degrees</string>
+    <string name="cd_toggle_guides">Toggle safe area guides</string>
+    <string name="cd_split">Split clip at playhead</string>
+    <string name="cd_zoom_in">Zoom timeline in</string>
+    <string name="cd_zoom_out">Zoom timeline out</string>
+    <string name="cd_close_drawer">Close inspector drawer</string>
+    <string name="cd_add_media">Import local photo or video</string>
+    <string name="media_ingest_title">Local Gallery &amp; Media Ingest</string>
+    <string name="media_ingest_ready">Photo Picker &amp; SAF Ready</string>
+    <string name="btn_add_media">Add Media</string>
+    <string name="nav_edit">Edit</string>
+    <string name="nav_audio">Audio</string>
+    <string name="nav_text">Text</string>
+    <string name="nav_stickers">Stickers</string>
+    <string name="nav_overlay">Overlay</string>
+    <string name="nav_effects">Effects</string>
+    <string name="nav_speed">Speed</string>
+    <string name="nav_canvas">Canvas</string>
+</resources>

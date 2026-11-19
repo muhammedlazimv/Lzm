@@ -1,0 +1,6 @@
+{
+  "name": "NeonCut",
+  "description": "Multi-track mobile video editor studio with live effects, split comparison, Bezier speed curves, audio mixing, voiceover recording, and H.264 MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
